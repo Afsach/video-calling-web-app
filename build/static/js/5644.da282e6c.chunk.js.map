@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/5644.da282e6c.chunk.js","mappings":"oLAGe,SAASA,IACtB,OAAO,uBACT,C","sources":["components/Themes/DarkTheme.tsx"],"sourcesContent":["import React from \"react\";\nimport \"@elastic/eui/dist/eui_theme_dark.css\";\n\nexport default function DarkTheme() {\n  return <></>;\n}\n"],"names":["DarkTheme"],"sourceRoot":""}
